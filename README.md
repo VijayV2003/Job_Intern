@@ -1,6 +1,7 @@
 # Job and Internship Platform
 
-Welcome to our Job and Internship Platform! This website connects students and job seekers with organizations offering job opportunities. It also provides various tools to enhance the user's profile, prepare for interviews, and find mentorship. Below is a detailed breakdown of each section of our platform.
+Welcome to our Job and Internship
+! This website connects students and job seekers with organizations offering job opportunities. It also provides various tools to enhance the user's profile, prepare for interviews, and find mentorship. Below is a detailed breakdown of each section of our platform.
 
 ## Flow Chart 
 
